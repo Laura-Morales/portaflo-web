@@ -1,0 +1,1266 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Caveat+Brush&family=Gochi+Hand&family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Fredoka+One&family=Lakki+Reddy&family=Patua+One&display=swap');
+
+.logo{
+	height: 05em;
+	margin-left: 10px;
+	
+}
+
+@media (min-width: 1100px) and (max-width:  1600px){
+
+.social{
+	margin-left: 330px;
+}
+.menu{
+	margin-left: 380px;
+	font-family: Dayrom, serif;
+	font-size: 1.5em;
+}
+/*slide*/
+.fondo1{
+	background-color: #95779B;
+	height: 530px;
+}
+.fondo1 img{
+	height: auto;
+   	width: 500px;
+    margin:-640px 0px 0px 130px;
+
+}
+.fondo1 p{
+	margin: 20px 0px 0px -100px;
+	font-size: 1.2em;
+	text-align: justify;
+	color: #494646;
+	font-family: 'Merienda', cursive;
+	color: #572364;
+	padding-left: 800px;
+	
+}
+.fondo1 h1{
+	margin: 100px 000px 0px 750px;
+	color: #572364;
+	font-family: 'Caveat Brush', cursive;
+}
+
+.fondo2{
+	background-color: #928CDF;
+	height: 530px;
+}
+.fondo2 img{
+	height: auto;
+   	width: 580px;
+    margin: -550px 0px 0px 630px;
+}
+.fondo2 p{
+	margin: 0px 0px 0px 200px;
+	font-size: 1.4em;
+	text-align: justify;
+	color: #494646;
+	font-family: 'Merienda', cursive;
+	color: #003153;
+}
+.fondo2 h1{
+	margin: 240px 0px 20px 295px;
+	color: #003153;
+	font-family: 'Caveat Brush', cursive;
+}
+.fondo3{
+	background-color: #986567;
+	height: 530px;
+}
+.fondo3 img{
+	height: auto;
+   	width: 525px;
+    margin:-530px 0px 0px 140px;
+
+}
+.fondo3 p{
+	margin: 10px 0px 0px 490px;
+	font-size: 1.3em;
+	text-align: justify;
+	color: #494646;
+	font-family: 'Merienda', cursive;
+	color: #D8BFD8;
+	padding-left: 250px;
+}
+.fondo3 h1{
+	margin: 160px 000px 0px 775px;
+	font-family: 'Caveat Brush', cursive;
+	color: #D8BFD8;
+}
+/*proyectos*/
+.fondo4{
+	background-color: #443B66;
+	height: 730px;	
+}
+.fondo4 h1{
+	color: #B0C4DE;
+	text-align: center;	
+	margin: 50px 0px 0px 0px;
+	font-family: 'Abril Fatface', cursive;
+
+}
+.fondo4 p{
+	color: #003153; 
+	font-family: 'Concert One', cursive;
+	font-size: 2em;
+	text-align: center;
+}
+
+.caja1{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:40px 0px 0px 60px;
+	box-shadow: 10px 20px 10px black;
+}
+.caja2{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-230px 0px 0px 485px;
+	box-shadow: 0px 20px 10px black;
+}
+.caja3{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-260px 0px 0px 900px;
+	box-shadow: 10px 20px 10px black;
+}
+.caja4{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:0px 0px 0px 60px;
+	box-shadow: 10px 20px 10px black;
+}
+.caja5{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-230px 0px 0px 485px;
+	box-shadow: 0px 20px 10px black;
+}
+.caja6{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-260px 0px 0px 900px;
+	box-shadow: 10px 20px 10px black;
+}
+.html{
+	width: 60px;
+	margin: -10px 0px 0px 280px;
+}
+.css{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.ae{
+	width: 60px;
+	margin: -20px 0px 0px 280px;
+}
+.ai{
+	width: 60px;
+	margin: -20px 0px 0px 280px;
+}
+.sb{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.diseño{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.ps{
+	width: 60px;
+	margin: -20px 0px 0px 280px;
+}
+.camara{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.ap{
+	width: 60px;
+	margin: -15px 0px 0px 280px;
+}
+.video{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+
+/*programacion*/
+.fondo6{
+	background-color: #A9CCE3;
+	height: 660px;
+}
+.fondo6 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo6 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 10px 50px;
+}
+.fondo6 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea{
+	margin: -320px 0px 20px 10px;
+}
+.caja7{
+	height: 5px;
+	width: 450px;
+	background-color: #003153;
+	margin: 0px 0px 30px 50px;
+}
+.css3{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.html5{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.js{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.php{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.plantilla{
+	width: 500px;
+	margin: -620px 0px 0px 630px;
+	padding: 0px;
+}
+
+/*animacion*/
+.fondo7{
+	background-color: #A9CCE3;
+	height: 2100px;
+}
+.caja8{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo7 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo7 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo7 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea{
+	margin: -320px 0px 20px 10px;
+}
+.ae2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.video1{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+.separador{
+	width: 1540px;
+	margin: -360px 0px 0px 50px;
+}
+.caja9{
+	height: 5px;
+	width: 600px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.text1 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -480px 0px 30px 50px;
+}
+.text1 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.text1 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: -330px 0px 0px 51px;
+}
+.linea2{
+	margin: -370px 0px 0px 0px;
+}
+.ae2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.video2{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+.caja10{
+	height: 5px;
+	width: 600px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.text2 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -480px 0px 30px 50px;
+}
+.text2 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.text2 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: -330px 0px 0px 51px;
+}
+.linea3{
+	margin: -370px 0px 0px 0px;
+}
+.ap2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.camara2{
+	width: 60px;
+	margin: 20px 0px 0px 20px; 
+}
+.video3{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+
+/*ilustracion*/
+
+.fondo8{
+	background-color: #A9CCE3;
+	height: 1770px;
+}
+.caja11{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo8 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo8 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo8 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea4{
+	margin: -320px 0px 20px 10px;
+}
+.plantilla2{
+	width: 600px;
+	margin: -720px 0px 0px 630px;
+	padding: 0px;
+}
+.ai2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.sb2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+
+.separador{
+	width: 1540px;
+	margin: -360px 0px 0px 50px;
+}
+.caja12{
+	height: 5px;
+	width: 600px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.text1 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -480px 0px 30px 50px;
+}
+.text1 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.text1 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: -330px 0px 0px 51px;
+}
+.linea5{
+	margin: -370px 0px 0px 0px;
+}
+/*diseño*/
+.fondo9{
+	background-color: #A9CCE3;
+	height: 860px;
+}
+.caja13{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo9 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo9 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo9 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea6{
+	margin: -320px 0px 20px 10px;
+}
+.plantilla3{
+	width: 700px;
+	margin: -800px 0px 0px 630px;
+	padding: 0px;
+}
+.ai2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.sb2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+/*fotografia*/
+.fondo10{
+	background-color: #A9CCE3;
+	height: 860px;
+}
+.caja14{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo10 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo10 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo10 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea7{
+	margin: -320px 0px 20px 10px;
+}
+.plantilla4{
+	width: 700px;
+	margin: -800px 0px 0px 630px;
+	padding: 0px;
+}
+.camara3{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+/*edicion*/
+.fondo11{
+	background-color: #A9CCE3;
+	height: 600px;
+}
+.caja15{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo11 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo11 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo11 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea8{
+	margin: -320px 0px 20px 10px;
+}
+.ap3{
+	width: 60px;
+	margin: 0px 0px 0px 50px; 
+}
+.video4{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+
+
+
+/*formulario*/
+.fondo5{
+	background-color: #663A3A;
+	height: 530px;
+}
+.fondo5 h2{
+  width: 100%;
+  margin-left: 400px;
+  margin-top: 80px;
+  display: flex;
+  font-family: 'Concert One', cursive;
+  color:#eedfe6;
+  
+}
+.fondo5 p{
+  width: 100%;
+  margin-left: 575px;
+  display: flex;
+  font-size: 2.4em;
+ font-family: 'Concert One', cursive;
+  color: #eedfe6;
+}
+.form {
+  width: 100%;
+  margin-left: 350px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form input {
+  width: 90%;
+  height: 50px;
+  margin: 0.3rem;
+  border: none;
+  background-color: #CC9696;
+}
+
+.form button {
+  width: 100px; 
+  border: none;
+  background-color: #CC9696;
+
+}
+
+}
+
+
+@media (min-width: 992px) and (max-width:  1100px){
+
+.social{
+	margin-left: 150px;
+}
+.menu{
+	margin-left: 200px;
+	font-family: Dayrom, serif;
+	font-size: 1.5em;
+}
+/*slide*/
+.fondo1{
+	background-color: #95779B;
+	height: 1300px;
+}
+.fondo1 img{
+	height: auto;
+   	width: 750px;
+    margin:-215px 0px 0px 120px;
+
+}
+.fondo1  p{
+	padding-right: -600px;
+	font-size: 1.5em;
+	text-align: justify;
+	color: #494646;
+	font-family: 'Merienda', cursive;
+	color: #572364;
+	margin: 40px 0px 0px 150px;
+}
+.fondo1 h1{
+	margin: 150px 0px 0px 215px;
+	color: #572364;
+	font-family: 'Caveat Brush', cursive;
+}
+
+.fondo2{
+	background-color: #928CDF;
+	height: 1300px;
+}
+.fondo2 img{
+	height: auto;
+   	width: 750px;
+    margin:-55px 0px 0px 150px;
+
+}
+.fondo2 p{
+	margin: 30px 0px 0px 250px;
+	font-size: 1.8em;
+	text-align: justify;
+	color: #494646;
+	font-family: 'Merienda', cursive;
+	color: #003153;
+}
+.fondo2 h1{
+	margin: 200px 20px 20px 415px;
+	color: #003153;
+	font-family: 'Caveat Brush', cursive;
+}
+.fondo3{
+	background-color: #986567;
+	height: 1300px;
+}
+.fondo3 img{
+	height: auto;
+   	width: 750px;
+    margin:-170px 0px 0px 120px;
+
+}
+.fondo3 p{
+	margin: 30px 0px 0px 150px;
+	font-size: 1.5em;
+	text-align: justify;
+	color: #494646;
+	font-family: 'Merienda', cursive;
+	color: #D8BFD8;
+}
+.fondo3 h1{
+	margin: 200px 0px 0px 355px;
+	font-family: 'Caveat Brush', cursive;
+	color: #D8BFD8;
+}
+/*proyectos*/
+.fondo4{
+	background-color: #443B66;
+	height: 1300px;
+}
+.fondo4 h1{
+	color: #B0C4DE;
+	text-align: center;	
+	margin: 50px 0px 0px 0px;
+	font-family: 'Abril Fatface', cursive;
+
+}
+.fondo4 p{
+	color: #003153; 
+	font-family: 'Concert One', cursive;
+	font-size: 2em;
+	text-align: center;
+}
+
+.caja1{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-10px 0px 0px 60px;
+	box-shadow: 10px 20px 10px black;
+}
+.caja2{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-230px 0px 0px 485px;
+	box-shadow: 0px 20px 10px black;
+}
+.caja3{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-260px 0px 0px 900px;
+	box-shadow: 10px 20px 10px black;
+}
+.caja4{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-350px 0px 0px 60px;
+	box-shadow: 10px 20px 10px black;
+}
+.caja5{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-100px 0px 0px 56px;
+	box-shadow: 0px 20px 10px black;
+}
+.caja6{
+	background-color: #689eaa;
+	height:200px;
+	width: 380px !important;
+	margin:-260px 0px 0px 900px;
+	box-shadow: 10px 20px 10px black;
+}
+.html{
+	width: 60px;
+	margin: -10px 0px 0px 280px;
+}
+.css{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.ae{
+	width: 60px;
+	margin: -20px 0px 0px 280px;
+}
+.ai{
+	width: 60px;
+	margin: -20px 0px 0px 280px;
+}
+.sb{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.diseño{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.ps{
+	width: 60px;
+	margin: -20px 0px 0px 280px;
+}
+.camara{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+.ap{
+	width: 60px;
+	margin: -15px 0px 0px 280px;
+}
+.video{
+	width: 60px;
+	margin: 15px 0px 0px 20px;
+}
+
+/*programacion*/
+.fondo6{
+	background-color: #A9CCE3;
+	height: 660px;
+}
+.fondo6 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo6 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 10px 50px;
+}
+.fondo6 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea{
+	margin: -320px 0px 20px 10px;
+}
+.caja7{
+	height: 5px;
+	width: 450px;
+	background-color: #003153;
+	margin: 0px 0px 30px 50px;
+}
+.css3{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.html5{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.js{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.php{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.plantilla{
+	width: 500px;
+	margin: -620px 0px 0px 630px;
+	padding: 0px;
+}
+
+/*animacion*/
+.fondo7{
+	background-color: #A9CCE3;
+	height: 2100px;
+}
+.caja8{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo7 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo7 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo7 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea{
+	margin: -320px 0px 20px 10px;
+}
+.ae2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.video1{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+.separador{
+	width: 1540px;
+	margin: -360px 0px 0px 50px;
+}
+.caja9{
+	height: 5px;
+	width: 600px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.text1 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -480px 0px 30px 50px;
+}
+.text1 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.text1 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: -330px 0px 0px 51px;
+}
+.linea2{
+	margin: -370px 0px 0px 0px;
+}
+.ae2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.video2{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+.caja10{
+	height: 5px;
+	width: 600px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.text2 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -480px 0px 30px 50px;
+}
+.text2 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.text2 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: -330px 0px 0px 51px;
+}
+.linea3{
+	margin: -370px 0px 0px 0px;
+}
+.ap2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.camara2{
+	width: 60px;
+	margin: 20px 0px 0px 20px; 
+}
+.video3{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+
+/*ilustracion*/
+
+.fondo8{
+	background-color: #A9CCE3;
+	height: 1770px;
+}
+.caja11{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo8 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo8 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo8 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea4{
+	margin: -320px 0px 20px 10px;
+}
+.plantilla2{
+	width: 600px;
+	margin: -720px 0px 0px 630px;
+	padding: 0px;
+}
+.ai2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.sb2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+
+.separador{
+	width: 1540px;
+	margin: -360px 0px 0px 50px;
+}
+.caja12{
+	height: 5px;
+	width: 600px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.text1 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -480px 0px 30px 50px;
+}
+.text1 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.text1 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: -330px 0px 0px 51px;
+}
+.linea5{
+	margin: -370px 0px 0px 0px;
+}
+/*diseño*/
+.fondo9{
+	background-color: #A9CCE3;
+	height: 860px;
+}
+.caja13{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo9 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo9 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo9 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea6{
+	margin: -320px 0px 20px 10px;
+}
+.plantilla3{
+	width: 700px;
+	margin: -800px 0px 0px 630px;
+	padding: 0px;
+}
+.ai2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+.sb2{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+/*fotografia*/
+.fondo10{
+	background-color: #A9CCE3;
+	height: 860px;
+}
+.caja14{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo10 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo10 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo10 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea7{
+	margin: -320px 0px 20px 10px;
+}
+.plantilla4{
+	width: 700px;
+	margin: -800px 0px 0px 630px;
+	padding: 0px;
+}
+.camara3{
+	width: 60px;
+	margin: 20px 0px 0px 50px; 
+}
+/*edicion*/
+.fondo11{
+	background-color: #A9CCE3;
+	height: 600px;
+}
+.caja15{
+	height: 5px;
+	width: 500px;
+	background-color: #003153;
+	margin: 40px 0px 40px 50px;
+}
+.fondo11 p{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	font-size: 1.2em;
+	margin: -390px 0px 30px 50px;
+}
+.fondo11 h4{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 0px 0px 20px 50px;
+}
+.fondo11 h2{
+	text-align: justify;
+	font-family: 'Merienda', cursive;
+	color: #003153; 
+	margin: 70px 0px 40px 50px;
+}
+.linea8{
+	margin: -320px 0px 20px 10px;
+}
+.ap3{
+	width: 60px;
+	margin: 0px 0px 0px 50px; 
+}
+.video4{
+	width: 550px;
+	height: 315px;
+	margin: -600px 0px 150px 700px;
+}
+
+
+
+/*formulario*/
+.fondo5{
+	background-color: #663A3A;
+	height: 530px;
+}
+.fondo5 h2{
+  width: 100%;
+  margin-left: 400px;
+  margin-top: 80px;
+  display: flex;
+  font-family: 'Concert One', cursive;
+  color:#eedfe6;
+  
+}
+.fondo5 p{
+  width: 100%;
+  margin-left: 575px;
+  display: flex;
+  font-size: 2.4em;
+ font-family: 'Concert One', cursive;
+  color: #eedfe6;
+}
+.form {
+  width: 100%;
+  margin-left: 350px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form input {
+  width: 90%;
+  height: 50px;
+  margin: 0.3rem;
+  border: none;
+  background-color: #CC9696;
+}
+
+.form button {
+  width: 100px; 
+  border: none;
+  background-color: #CC9696;
+
+}
+
+}
+
+
